@@ -1,3 +1,8 @@
+---
+name: User story
+about: Describe a user need, acceptance criteria, and delivery considerations.
+---
+
 ## User story
 
 **As a [role],**
