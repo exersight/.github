@@ -1,6 +1,6 @@
 ---
-name: Engineering task
-about: A build, research, investigation or docs task, in one shared structure for people and coding agents.
+name: Work item
+about: Any piece of work (feature, build, research, investigation, docs) in one structure for people and coding agents.
 title: "<Area>: <what, as a verb phrase>"
 labels: []
 ---
@@ -16,7 +16,9 @@ Add one label: type:build, type:research, type:investigation or type:docs
 
 ## Why
 
-<!-- The problem today, with evidence: numbers, file paths, examples. -->
+<!-- The problem today, with evidence: numbers, file paths, examples.
+For user-facing work, also state the need:
+As a [role], I want [an action or feature], so that [a reason or benefit]. -->
 
 ## Goal
 
@@ -45,6 +47,11 @@ One line each: question → metric → data used → the decision the answer pro
 ## Dependencies
 
 **Blocked by:** · **Blocks:** · **Related:**
+
+## Risks and rollout
+
+<!-- Migrations, breaking changes, deployment order, feature flags, rollback.
+"n/a" if none. -->
 
 ## Done when
 
